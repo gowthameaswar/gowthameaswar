@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gowtham Easwar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working on **Meta Business Partner Application**<br><br>
 - 🌱 I’m currently learning **React Js and Google Cloud Platform**<br><br>
-- 💬 Ask me about **python, LLM, REST APIs**<br><br>
+- 💬 Ask me about **Python, LLM, REST APIs**<br><br>
 - 📫 How to reach me **gowthameaswarb@gmail.com**<br><br>
 - 📄 Know about my experiences [https://www.linkedin.com/in/gowthameaswarb](https://www.linkedin.com/in/gowthameaswarb)<br><br>
 - ⚡ Fun fact **Perfectionist Overload Syndrome**<br>
