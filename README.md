@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gowtham Easwar</h1>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Meta Business Partner Application**<br><br> - 🌱 I’m currently learning **React Js and Google Cloud Platform**<br><br> - 💬 Ask me about **python, LLM, REST APIs**<br><br> - 📫 How to reach me **gowthameaswarb@gmail.com**<br><br> - 📄 Know about my experiences [https://www.linkedin.com/in/gowthameaswarb](https://www.linkedin.com/in/gowthameaswarb)<br><br> - ⚡ Fun fact **Perfectionist Overload Syndrome**<br>
+- 🔭 I’m currently working on **Meta Business Partner Application**<br><br>
+- 🌱 I’m currently learning **React Js and Google Cloud Platform**<br><br>
+- 💬 Ask me about **python, LLM, REST APIs**<br><br>
+- 📫 How to reach me **gowthameaswarb@gmail.com**<br><br>
+- 📄 Know about my experiences [https://www.linkedin.com/in/gowthameaswarb](https://www.linkedin.com/in/gowthameaswarb)<br><br>
+- ⚡ Fun fact **Perfectionist Overload Syndrome**<br>
 
 
 ## 🌐 Socials:
