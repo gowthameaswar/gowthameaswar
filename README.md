@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Meta Business Partner Application**<br><br>
+- 🔭 I’m currently working on **ConvoBox**<br><br>
 - 🌱 I’m currently learning **React Js and Google Cloud Platform**<br><br>
 - 💬 Ask me about **Python, LLM, REST APIs**<br><br>
 - 📫 How to reach me **gowthameaswarb@gmail.com**<br><br>
